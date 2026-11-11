@@ -2,9 +2,9 @@
 
 BCA student specialising in **AI and machine learning**, from West Bengal, India. I build AI tools and interactive websites, and learn something new with every project.
 
-🌐 **Portfolio:** [rohanjaswara88-art.github.io/portfolio](https://rohanjaswara88-art.github.io/portfolio/) (press **AI Auto** for a guided tour by a 3D character)
-💼 **LinkedIn:** [rohan-jaswara](https://www.linkedin.com/in/rohan-jaswara-29849943a)
-🎯 **Goal:** software developer · open to internships, learning opportunities and freelance work
+- 🌐 **Portfolio:** [rohanjaswara88-art.github.io/portfolio](https://rohanjaswara88-art.github.io/portfolio/) (press **AI Auto** for a guided tour by a 3D character)
+- 💼 **LinkedIn:** [rohan-jaswara](https://www.linkedin.com/in/rohan-jaswara-29849943a)
+- 🎯 **Goal:** software developer · open to internships, learning opportunities and freelance work
 
 ## Projects
 
