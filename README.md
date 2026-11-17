@@ -15,7 +15,7 @@ and AI tools, test them, and ship them to real users.
 
 A typing speed test that grew into a full-stack app: accounts, leaderboards and **live multiplayer races**.
 
-- **Backend:** Node and Express REST API, Postgres (Neon) behind a repository module, scrypt-hashed passwords
+#1.**Backend:** Node and Express REST API, Postgres (Neon) behind a repository module, scrypt-hashed passwords
   and `HttpOnly` cookie sessions
 - **Real time:** Socket.IO races where the server owns the clock and rejects impossible speeds (anti-cheat)
 - **Leaderboards:** one SQL query with a window function (`ROW_NUMBER() OVER (PARTITION BY ...)`)
