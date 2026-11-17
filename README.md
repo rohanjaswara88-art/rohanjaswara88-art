@@ -15,12 +15,12 @@ and AI tools, test them, and ship them to real users.
 
 A typing speed test that grew into a full-stack app: accounts, leaderboards and **live multiplayer races**.
 
-**1.**.**Backend:** Node and Express REST API, Postgres (Neon) behind a repository module, scrypt-hashed passwords
+**1.** **Backend:** Node and Express REST API, Postgres (Neon) behind a repository module, scrypt-hashed passwords
   and `HttpOnly` cookie sessions
-**2.****Real time:** Socket.IO races where the server owns the clock and rejects impossible speeds (anti-cheat)
-- **Leaderboards:** one SQL query with a window function (`ROW_NUMBER() OVER (PARTITION BY ...)`)
-- **Quality:** 70 automated tests, GitHub Actions CI with a Docker smoke test against a real Postgres
-- **Deploy:** Docker on Render, database on Neon, both in Singapore for low latency from India
+**2.** **Real time:** Socket.IO races where the server owns the clock and rejects impossible speeds (anti-cheat)
+**3.** **Leaderboards:** one SQL query with a window function (`ROW_NUMBER() OVER (PARTITION BY ...)`)
+**4.** **Quality:** 70 automated tests, GitHub Actions CI with a Docker smoke test against a real Postgres
+**5.** **Deploy:** Docker on Render, database on Neon, both in Singapore for low latency from India
 
 ## More projects
 
